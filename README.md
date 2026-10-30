@@ -61,11 +61,6 @@ RegistroIntegrantes/
 
 También puedes abrir la carpeta en tu IDE y ejecutar la clase `Main`.
 
-## Captura de pantalla
-
-<img width="1002" height="685" alt="image" src="https://github.com/user-attachments/assets/1b87d172-9dae-4992-81b0-c2f19ce394b3" />
-
-
 ## Autor
 
 - **Nombre:** _Valeria Usma Espitia_
